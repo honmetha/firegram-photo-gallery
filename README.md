@@ -17,6 +17,6 @@
 - [x] Deployment
 
 <p float="left">
-  <a href="https://reactjs.org/"><img src="./public/logo512.png" alt="React.js" width="200"></a>
-  <a href="https://firebase.google.com/"><img src="./public/firebase.png" alt="Next.js" width="140"></a>
+  <a href="https://reactjs.org/"><img src="./public/logo512.png" alt="React.js" width="150"></a>
+  <a href="https://firebase.google.com/"><img src="./public/firebase.png" alt="Next.js" width="105"></a>
 </p>
